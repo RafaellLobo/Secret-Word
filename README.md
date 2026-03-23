@@ -1,9 +1,4 @@
 # 🎮 React Game Project
-
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## 🇧🇷 Sobre o Projeto
